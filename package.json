@@ -1,0 +1,30 @@
+{
+  "name": "discord-nitro-generator",
+  "version": "1.0.0",
+  "description": "Generate a random Nitro Discord code and check if it's valid.",
+  "main": "app.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "prompts": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalinkaGit/Discord-Nitro-Generator.git"
+  },
+  "keywords": [
+    "discord",
+    "nitro",
+    "generator"
+  ],
+  "author": "Kalinka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KalinkaGit/Discord-Nitro-Generator/issues"
+  },
+  "homepage": "https://github.com/KalinkaGit/Discord-Nitro-Generator#readme"
+}
