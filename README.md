@@ -3,23 +3,23 @@ Generate a random Nitro Discord code and check if it's valid.
 
 # THIS PROJECT WAS CREATED FOR TESTING PURPOSES ONLY, ANY USE THAT BREAKS THE TERMS AND CONDITIONS OF DISCORD IS NOT MY FAULT!
 
-# PREREQUISITES
+# Prerequisites
 ```
 Node.JS =< V10.X.X
 ```
-# INSTALL
+# Install
 ```sh
 $ git clone https://github.com/KalinkaGit/Discord-Nitro-Generator.git
 $ npm install
 ```
 
-# USAGE
+# Usage
 ```sh
 $ node app.js
 ```
 A prompt will open and ask you for the number of codes to generate and test (1-1000)
 
-# LICENSE
+# License
 Copyright (c) 2021 Kalinka
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
